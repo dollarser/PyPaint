@@ -1,0 +1,116 @@
+# 忽略所有 .pyc 文件
+*.pyc
+ 
+# 忽略所有 __pycache__ 目录
+__pycache__/
+ 
+# 忽略所有 .pytest_cache 目录
+.pytest_cache/
+ 
+# 忽略所有 .vscode 目录
+.vscode/
+ 
+# 忽略所有 .db 数据库文件
+*.db
+ 
+# 忽略所有 .log 日志文件
+*.log
+ 
+# 忽略所有 .env 文件，用于存储环境变量
+.env
+ 
+# 忽略所有 .venv 目录，这是虚拟环境目录
+.venv/
+ 
+# 忽略所有 requirements*.txt 文件，这是pip的依赖文件
+requirements*.txt
+ 
+# 忽略所有 .gitignore 文件，防止这个文件被递归忽略
+.gitignore
+ 
+# 忽略所有 .idea 目录，用于JetBrains IDE
+.idea/
+ 
+# 忽略所有 .tox 目录，用于隔离的Python环境
+.tox/
+ 
+# 忽略所有 .coverage 文件，代码覆盖率报告
+.coverage
+ 
+# 忽略所有 *.log 文件，在项目根目录下生成的日志文件
+*.log
+ 
+# 忽略所有 *.pid 文件，进程ID文件
+*.pid
+ 
+# 忽略所有 *.seed 文件，用于随机数生成
+*.seed
+ 
+# 忽略所有 *.facts 文件，用于JVM应用的系统属性
+*.facts
+ 
+# 忽略所有 .pytest_cache 文件夹，pytest测试框架使用
+.pytest_cache/
+ 
+# 忽略所有 .hypothesis 文件夹，用于属性检测库
+.hypothesis/
+ 
+# 忽略所有 target 文件夹，用于jupyter notebook
+target/
+ 
+# 忽略所有 nbconvert 文件夹，用于jupyter notebook
+.nbconvert/
+ 
+# 忽略所有 .ropeproject 文件夹，Python代码静态分析工具
+.ropeproject/
+ 
+# 忽略所有 .mypy_cache 文件夹，mypy类型检查器使用
+.mypy_cache/
+ 
+# 忽略所有成功和失败的snapshots，用于测试
+__snapshots__/
+ 
+# 忽略所有採集的测试报告
+reports/
+ 
+# 忽略所有自动生成的文档
+docs/api/
+ 
+# 忽略所有的编译后的Python字节码文件
+*.py[cod]
+ 
+# 忽略所有已经打包的Python eggs
+*.egg
+ 
+# 忽略所有的生成的PDF文档
+*.pdf
+ 
+# 忽略所有的生成的PS文档
+*.ps
+ 
+# 忽略所有的生成的TeX文档
+*.dvi
+ 
+# 忽略所有的生成的RTF文档
+*.rtf
+ 
+# 忽略所有的生成的HTML文档
+*.html
+ 
+# 忽略所有的生成的man页文档
+*.1
+ 
+# 忽略所有的生成的信息文档
+*.info
+ 
+# 忽略所有的生成的XML文档
+*.xml
+ 
+# 忽略所有的图形用户界面文件
+*.gv
+ 
+# 忽略所有的自动生成的视频文件
+*.mp4
+
+# 忽略所有json文件
+*.json
