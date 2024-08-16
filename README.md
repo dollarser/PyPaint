@@ -11,6 +11,13 @@
 + 边缘检测
 + 锐化
 
+### 界面
+
+目前界面比较简陋, 持续优化中...
+
+![image](https://github.com/user-attachments/assets/13b67789-1f43-40fe-84a0-c404789ae765)
+
+
 ### 环境配置
 
 **配置python环境**：
