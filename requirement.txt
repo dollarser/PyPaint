@@ -1,0 +1,13 @@
+statsmodels
+matplotlib
+opencv-python
+numpy
+Pillow
+scikit-image
+scikit-learn
+scipy
+yaml
+tqdm
+pathlib
+
+pywebview

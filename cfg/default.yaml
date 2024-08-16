@@ -1,0 +1,14 @@
+icon: favico.png
+
+ANOM_DIR: 'output/abnorm'
+NORM_DIR: 'output/norm'
+EL_SDIR: "."  # 电器图片目录
+EL_ST_CNT: 2  # 总共几张电器图
+ROW: 6
+COL: 24
+ROW_NUM: 6
+COL_NUM: 24
+
+MAXZOOM: 5
+MAXSCALE: 10000
+MINSCALE: 10
